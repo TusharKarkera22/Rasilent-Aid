@@ -53,12 +53,12 @@ const About = () => (
 
     <p className="text-start font-iowan font-20 text-secondary-white pt-[6%]">WHY TO USE <span className=' text-green font-iowan text-green '>RASILIENT AID</span> ?</p>
     <hr className="w-[22rem] h-0.5 mt-1 border-0  rounded bg-light-green"></hr>
-    <p className='leading-[17px]   text-start w-[1082px] font-kross text-[14px] text-green pt-6'>Resilient aid is essential because it doesn't just offer short-term relief; it equips communities to bounce back stronger from adversity. By using resilient aid, we invest in lasting solutions that create self-reliant, empowered, and self-sustaining communities, ensuring a brighter future for all.</p>
+    <p className='leading-[17px]   text-start w-[1082px] font-kross text-[14px] text-green pt-6'>Resilient aid is essential because it doesnt just offer short-term relief; it equips communities to bounce back stronger from adversity. By using resilient aid, we invest in lasting solutions that create self-reliant, empowered, and self-sustaining communities, ensuring a brighter future for all.</p>
     
     
     <p className="text-start font-iowan font-20 text-secondary-white pt-[6%] ">FOR WHOM IS <span className=' text-green font-iowan text-green '>RASILIENT AID</span> ?</p>
     <hr className="w-[22rem] h-0.5 mt-1 border-0  rounded bg-light-green"></hr>
-    <p className='leading-[17px]   text-start w-[1082px] font-kross text-[14px] text-green pt-6 pb-[6%]'>Resilient aid is for communities and individuals facing adversity, from natural disasters to economic challenges. It's for anyone seeking sustainable support to build resilience and secure a better, more self-reliant future.</p>
+    <p className='leading-[17px]   text-start w-[1082px] font-kross text-[14px] text-green pt-6 pb-[6%]'>Resilient aid is for communities and individuals facing adversity, from natural disasters to economic challenges. Its for anyone seeking sustainable support to build resilience and secure a better, more self-reliant future.</p>
     </div>
   
     
